@@ -1,0 +1,11 @@
+label{
+    font-weight: bolder;
+}
+table, td{
+    border: 1px solid black;
+    width: 76%;
+    height: 3%;
+}
+th{
+    border: 1px solid black;
+}
